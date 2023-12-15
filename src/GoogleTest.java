@@ -29,7 +29,8 @@ public class GoogleTest {
 		driver.findElement(By.name("q")).sendKeys("rahul shetty");
 		driver.close();
 		
-	
+		sysout(new changes);
+		
 		
 	}
 }

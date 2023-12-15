@@ -28,7 +28,7 @@ public class RSATest {
 		System.out.println(driver.getTitle());
 		driver.close();
 		
-	
+		DesiredCapabilities
 		
 	}
 }
